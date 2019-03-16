@@ -1,7 +1,10 @@
 /**************************************************************************
  * 
- * Como interesado necesito obtener la información de cursos ofertados por educación continua 
+ * ES: Como interesado necesito obtener la información de cursos ofertados por educación continua 
  * para así tener diferentes opciones para elegir posteriormente un curso al cual matricularme.
+ * 
+ * EN: As interested in courses, I need to get the information of the offered courses by continous education,
+ * so I can get the different options to choose later a course wich I can take
  * 
  **************************************************************************/
 let courses = [
