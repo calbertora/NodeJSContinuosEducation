@@ -3,7 +3,7 @@
 
 The first assignment of the week is:
    - Show a list of courses
-   - Select a course id, and argv params, set the student's name and id, and it has to save on a file the data.
+   - Select a course id, and with argv params, set the student's name and id, and it has to save on a file the data.
       - If no args are passed it has to print all the courses.
       - if the course id does not exists, it has to show a message to say so.
 
