@@ -16,7 +16,7 @@ To test the first activity:
 To test the second activity:
    - Yargs must be installed now
    - on the node cli write the command:
-      ```node .\OfferedCourses.js```
+      ```node .\SelectCourse.js```
       - It must show all the courses
    - on the node cli write the command:
       ```node .\SelectCourse.js inscribir --curso=1 --nombre='Mike Tyson' --cedula=12345```
